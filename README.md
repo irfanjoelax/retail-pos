@@ -10,6 +10,8 @@ Website Aplikasi Retail POS dengan pelayanan Ongkir radius 2KM dan Android Web B
 
 ### Plugin/Library
 - laravel/ui for Auth Scafolding
+- livewire/livewire version 2.*
+- Turbolinks for SPA
 
 ### Module
 - Role: Administrator dan Pelanggan
